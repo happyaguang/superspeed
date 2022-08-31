@@ -116,7 +116,7 @@ preinfo() {
 	echo "       bash <(curl -Lso- https://git.io/superspeed.sh)"
 	echo "       全部节点列表:  https://git.io/superspeedList"
 	echo "       节点更新: 2020/04/09  | 脚本更新: 2021/07/30"
-	echo "       阿光更新：2022年8月31日
+	echo "       阿光更新：2022年8月31日"
 	echo "——————————————————————————————————————————————————————————"
 }
 
