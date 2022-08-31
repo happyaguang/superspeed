@@ -3,6 +3,7 @@
 
 ## 使用方法
 ```
+bash <(curl -Lso- https://raw.githubusercontent.com/happyaguang/superspeed/master/superspeed.sh)
 bash <(curl -Lso- https://git.io/superspeed.sh)
 ```
 
